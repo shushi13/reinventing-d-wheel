@@ -8,9 +8,9 @@ This is a book about reinventing the wheel. It is an experiment, that you might 
 
 First of all, this is going to be a book from two parts. This is the first part, which is for the past and the second part will be for the present. I am going to write both parts in parallel but you will be able to read just the first part. This preface is necessarily to be written in the present, even that this is the field for part II.
 
-In this book, we have some rules for you, as a reader or participant, before you to read ahead. If you agree with all of them, then you are welcome.
+In this book, we have some rules for you, as a reader or participant, before you read ahead. If you agree with all of them, then you are welcome.
 
-  1. You should try (especially really hard if you know me in person) to keep me blind and uninformed for everything related to this book or its subject. Than means then when all this becomes more famous I should not know about it. Should not be thanked, encouraged, criticized, contacted or whatever. The consequence is that you might get mentioned in the second part of this book, how you screwed this experiment. :)
+  1. You should try (especially really hard if you know me in person) to keep me blind and uninformed for everything related to this book or its subject. Than means then when all this becomes more famous, I should not know about it. Should not be thanked, encouraged, criticized, contacted, helped or whatever. The consequence is that you might get mentioned in the second part of this book, how you screwed this experiment. :)
 
   2. Since this is an experiment, it could never end or be finished in any reasonable way. So that I could write 40 pages of this book and die in a crash or I could just lose interest. This is more a warning than a rule.
 
