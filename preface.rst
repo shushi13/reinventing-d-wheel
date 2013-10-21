@@ -21,7 +21,7 @@ In this book, we have some rules for you, as a reader or participant, before you
 
   4. Do not bother my family or the people that are close to me.
 
-If you are close to me and maybe know me personally, please consider to not read this book and try to act like I do. Stay uninformed and blind intentionally. Close your senses on every sign from above. You can use the tools that I will publish as soon as I create them.
+If you are close to me and maybe know me personally, please consider to not read this book or at least try to act like I do. Stay uninformed and blind intentionally. Close your senses on every sign from above. You can use the tools that I will publish as soon as I create them.
 
 I am not a book writer and do not know English so good, but I chose to write in English because it is better suited for this experiment. Considering this, you are mostly encouraged to clone this repository as in rule number 3 suggests. My native language is Bulgarian, so a translation in Bulgarian is especially needed. As a whole, this book/repository should not be read directly from here, but from a clone. The book is free as the license attached to this repository describes. That means that you can even charge or sell, while keeping the rules from above.
 
