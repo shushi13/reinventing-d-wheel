@@ -34,5 +34,6 @@ Do not click on the following link until you read this paragraph. If you are fam
 This whole book might look to you too strange, without answering a lot of question, but you will understand why I am writing it, when you start reading the second part. Even thought you probably will be able to deduce the answers from the first part.
 
 Even that you accept the rules, there will be always someone who will not know or care enough to keep them. Do not judge them, we are all humans.
+Also, I will change the real names of the people in the book. This is because I can't ask them, where I can use their real names.
 
 Now you may start to read the first page of the firts chapter. Of cource, at the moment I write it.
