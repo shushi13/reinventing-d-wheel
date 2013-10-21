@@ -4,6 +4,9 @@ Reinventing D wheel
 
 Part I
 
+Preface
+-------
+
 This is a book about reinventing the wheel. It is an experiment, that you might want to be involved or just read and enjoy.
 
 First of all, this is going to be a book from two parts. This is the first part, which is for the past and the second part will be for the present. I am going to write both parts in parallel but you will be able to read just the first part. This preface is necessarily to be written in the present, even that this is the field for part II.
