@@ -17,8 +17,9 @@ In this book, we have some rules for you, as a reader or participant, before you
 
   2. Since this is an experiment, it could never end or be finished in any reasonable way. So that I could write 40 pages of this book and die in a crash or I could just lose interest. This is more a warning than a rule.
 
-  3. You can clone this book (repository), edit, translate, criticize on your blog, book, newspaper, tv, radio show (I think the license allows all this), etc. Only if you include this keyword "reinventingdwheel", or play the following sound "reinventingdwheel" (TODO: create a simple sound file), or show constantly the following sign/letter "D" with yellow color on gray circle background at the bottom right corner. It would be ideal if in any moment I can understand that there is a spoiler for me and close my senses.
-  This rule is specifically for me, because I am a software developer and will create some tools to help me stay blind for that information (TODO: create the tools so other can use them too). Using the above signs I will help you better keep the secret from me and keep the promised rule number 1. I will look for this signs before I read, listen or watch something.
+  3. You can clone this book (repository), edit, translate, criticize on your blog, book, newspaper, tv, radio show (I think the license allows all this), etc. Only if you include this keyword "reinventingdwheel", or play the following sound "reinventingdwheel" (TODO: create a simple sound file), or show constantly the following sign/letter "D" with yellow color on gray circle background at the bottom right corner. It would be ideal if in any moment I can understand that there is a spoiler for me and close my senses. This rule is specifically for me, because I am a software developer and will create some tools to help me stay blind for that information (TODO: create the tools so other can use them too). Using the above signs I will help you better keep the secret from me and keep the promised rule number 1. I will look for this signs before I read, listen or watch something.
+
+  4. Do not bother my family or the people that are close to me.
 
 If you are close to me and maybe know me personally, please consider to not read this book and try to act like I do. Stay uninformed and blind intentionally. Close your senses on every sign from above. You can use the tools that I will publish as soon as I create them.
 
@@ -32,3 +33,6 @@ Do not click on the following link until you read this paragraph. If you are fam
 
 This whole book might look to you too strange, without answering a lot of question, but you will understand why I am writing it, when you start reading the second part. Even thought you probably will be able to deduce the answers from the first part.
 
+Even that you accept the rules, there will be always someone who will not know or care enough to keep them. Do not judge them, we are all humans.
+
+Now you may start to read the first page of the firts chapter. Of cource, at the moment I write it.
